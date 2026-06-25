@@ -1,4 +1,4 @@
-# Face Mask Classification using Deep Learning
+## Face Mask Classification using Deep Learning
 
 A deep learning project for binary face mask classification using Transfer Learning with a pre-trained ResNet50 model. The project evaluates multiple training configurations and improvement strategies to achieve robust and accurate face mask detection.
 
